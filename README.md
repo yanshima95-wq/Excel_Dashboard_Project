@@ -12,7 +12,7 @@ This project analyze airline disruptions during the Iran-Us conflict. An interac
 -Charts(Bar,Pie,Line,Combo)
 - Slicers for filtering
  ## Dashboard_Insights
--Identify top Airlines with highest daily losses
+ -Identify top Airlines with highest daily losses
 - Highlighted countries most affected by flights disruptions
 - Visualization passengers impact and cancelled flights
  ## Author
